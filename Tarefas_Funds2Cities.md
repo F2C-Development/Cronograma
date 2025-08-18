@@ -2,13 +2,13 @@ TABELAS PENDENTES:
 
 
 
-\[Anahí] identificacao (temos dados, **falta fazer tabela**)
+\[Anahí] identificacao (temos dados, **feito**)
 
-\[Anahí] estado (temos dados, **falta fazer tabela**)
+\[Anahí] estado (temos dados, **feito**)
 
-\[Anahí] regiao (temos dados, **falta fazer tabela**)
+\[Anahí] regiao (temos dados, **feito**)
 
-\[Anahí] demografia (temos dados, falta fazer tabela)
+\[Anahí] demografia (temos dados, feito)
 
 \[Anahí] assistencia\_social (?, falta fazer tabela)
 
@@ -41,6 +41,7 @@ TABELAS PENDENTES:
 \[Conforme demanda] programas (?, **falta fazer tabela**)
 
 \[Conforme demanda] contato\_tecnico (?, **falta fazer tabela**)
+
 
 
 
