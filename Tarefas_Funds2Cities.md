@@ -12,7 +12,7 @@ TABELAS PENDENTES:
 
 \[Anahí] assistencia\_social (?, falta fazer tabela)
 
-\[Anahí] financeiro (?, falta fazer tabela)
+\[Anahí] financeiro (?, feito)
 
 \[Anahí] saneamento\_basico (?, feito)
 
@@ -41,6 +41,7 @@ TABELAS PENDENTES:
 \[Conforme demanda] programas (?, **falta fazer tabela**)
 
 \[Conforme demanda] contato\_tecnico (?, **falta fazer tabela**)
+
 
 
 
