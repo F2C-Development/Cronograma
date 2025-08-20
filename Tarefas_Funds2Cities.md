@@ -10,7 +10,7 @@ TABELAS PENDENTES:
 
 \[Anahí] demografia (temos dados, feito)
 
-\[Anahí] assistencia\_social (?, falta fazer tabela)
+\[Anahí] assistencia\_social (?, feito)
 
 \[Anahí] financeiro (?, feito)
 
@@ -41,6 +41,7 @@ TABELAS PENDENTES:
 \[Conforme demanda] programas (?, **falta fazer tabela**)
 
 \[Conforme demanda] contato\_tecnico (?, **falta fazer tabela**)
+
 
 
 
